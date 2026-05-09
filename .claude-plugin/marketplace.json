@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "vrc-udon-skills",
-      "source": "./vrc-udon-skills",
+      "source": "./plugins/vrc-udon-skills",
       "description": "VRChat UdonSharp 開発を Builder First で支援する Skill 群と汎用ガイド",
       "version": "1.0.0",
       "author": {
