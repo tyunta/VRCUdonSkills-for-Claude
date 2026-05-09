@@ -1,0 +1,20 @@
+{
+  "name": "vrc-udon-skills",
+  "description": "VRChat UdonSharp 開発を Builder First / Runtime-Editor 分離 / project-owned 文書前提で支援する Skill 集。Networking、Persistence、高負荷 runtime、UI、Unity MCP、Fukuro Udon、DataList、ノウハウ受け渡しを 10 個の Skill で扱う。",
+  "version": "1.0.0",
+  "author": {
+    "name": "sechiro"
+  },
+  "homepage": "https://note.com/sechiro_vrc/n/n1705a7330377",
+  "repository": "https://github.com/tyunta/VRCUdonSkills-for-Claude",
+  "license": "MIT",
+  "keywords": [
+    "vrchat",
+    "udonsharp",
+    "udon",
+    "vrc-sdk",
+    "unity",
+    "world-development",
+    "builder-first"
+  ]
+}

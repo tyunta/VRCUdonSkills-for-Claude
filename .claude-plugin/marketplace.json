@@ -1,0 +1,38 @@
+{
+  "name": "vrc-udon-skills",
+  "description": "VRChat UdonSharp 開発向け Skill 集 (Builder First / Networking / Persistence / 高負荷 runtime / Unity MCP / project-owned 文書)",
+  "owner": {
+    "name": "sechiro"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "vrc-udon-skills",
+      "source": "./vrc-udon-skills",
+      "description": "VRChat UdonSharp 開発を Builder First で支援する Skill 群と汎用ガイド",
+      "version": "1.0.0",
+      "author": {
+        "name": "sechiro"
+      },
+      "homepage": "https://note.com/sechiro_vrc/n/n1705a7330377",
+      "repository": "https://github.com/tyunta/VRCUdonSkills-for-Claude",
+      "license": "MIT",
+      "keywords": [
+        "vrchat",
+        "udonsharp",
+        "udon",
+        "vrc-sdk",
+        "unity",
+        "world-development"
+      ],
+      "category": "game-development",
+      "tags": [
+        "vrchat",
+        "unity",
+        "udonsharp"
+      ]
+    }
+  ]
+}
